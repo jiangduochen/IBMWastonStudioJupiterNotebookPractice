@@ -1,1 +1,1 @@
-# IBMWastonStudioJupiterNotebookPractice
+# IBMWastonStudioJupyterNotebookPractice
